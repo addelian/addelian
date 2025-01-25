@@ -1,16 +1,24 @@
-## Hi there 👋
+## Thanks for stopping by 🤙
 
-<!--
-**addelian/addelian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current pastimes ⌚
 
-Here are some ideas to get you started:
+- spending time with our four-month-old 👶
+- developing [plots.club](https://plots.club), a comfy community web site 🗺
+- regular contributions to [my blog](https://bygones.bearblog.dev) 📓
+- forever chipping away at my [reading backlog](https://www.goodreads.com/nic2571) 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current musical acts 🥁
+
+- Shevelia, electronic progressive jazz 🎛
+- No Strata, alternative math rock 🎸
+- Bachelor's Grove, dark orchestral metalcore 🎻
+
+### Current learning goals 🏫
+
+- skilling up in languages (programming): Python, GoLang 💻
+- skilling up in tools & frameworks: Django, htmx 🔨
+- skilling up in languages (spoken): Spanish 🦉
+
+### Contact 📞
+
+Hit me up [here](mailto:nic@plots.club) (mailto link) 💌
