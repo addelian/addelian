@@ -2,7 +2,7 @@
 
 ### Current pastimes ⌚
 
-- spending time with our four-month-old 👶
+- spending time with our five-month-old 👶
 - developing [plots.club](https://plots.club), a comfy community web site 🗺
 - regular contributions to [my blog](https://bygones.bearblog.dev) 📓
 - forever chipping away at my [reading backlog](https://www.goodreads.com/nic2571) 📚
