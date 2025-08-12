@@ -4,7 +4,7 @@
 
 - spending time with our ten-month-old 👶
 - developing [plots.club](https://plots.club), a comfy community web site 🗺
-- regular contributions to [my blog](https://bygones.bearblog.dev) 📓
+- sporadic contributions to [my blog](https://bygones.bearblog.dev) 📓
 - forever chipping away at my [reading backlog](https://www.goodreads.com/nic2571) 📚
 
 ### Current musical acts 🥁
@@ -21,4 +21,4 @@
 
 ### Contact 📞
 
-Hit me up [here](mailto:nic@plots.club) (mailto link) 💌
+Hit me up: nic (at) plots (dot) club 💌
