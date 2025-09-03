@@ -2,8 +2,8 @@
 
 ### Current pastimes ⌚
 
-- spending time with our ten-month-old 👶
-- developing [plots.club](https://plots.club), a comfy community web site 🗺
+- spending time with our eleven-month-old 👶
+- developing [plots.club](https://plots.club), a comfy community web site. Let me know if you want an invite to the pilot site! 🗺
 - sporadic contributions to [my blog](https://bygones.bearblog.dev) 📓
 - forever chipping away at my [reading backlog](https://www.goodreads.com/nic2571) 📚
 
